@@ -25,6 +25,16 @@ a {
   font-weight: <weight>;
   font-style: normal;
 }
+.btn-primary {
+	padding: 12px 36px;
+	font-size: 16px;
+	font-weight: 700;
+	background: #4E47FF;
+	color: #ffffff;
+	border: none;
+	border-radius: 3px;
+	text-transform: capitalize;
+}
 /* common css ends here */
 
 /* header starts here */
@@ -43,5 +53,41 @@ a {
 	font-size: 34px;
 	color: #4E47FF;
 	line-height: 150%;
+}
+.header-top button {
+    width: 132px;
+	height: 48px;
+}
+.header-top button:hover {
+    background: #FFFFFF;
+    border: 1px solid #4E47FF;
+    color: #4E47FF;
+    border-radius: 3px;
+    transition: 0.1s linear all;
+    width: 135px;
+}
+
+.header-bottom h1 {
+	width: 905px;
+	font-weight: 700;
+	font-size: 65px;
+	color: #252432;
+	padding-bottom: 37px;
+	margin: 0 auto;
+}
+.header-bottom button {
+	width: 174px;
+	height: 48px;
+	padding: 12px 34px;
+	text-transform: capitalize;
+	margin: 0 auto;
+	display: block;
+}
+.header-bottom button:hover {
+    background: #FFFFFF;
+    border: 1px solid #4E47FF;
+    color: #4E47FF;
+    border-radius: 3px;
+    transition: 0.1s linear all;
 }
 /* header ends here */
