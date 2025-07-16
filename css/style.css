@@ -1,0 +1,47 @@
+/* common css starts here */
+body {
+    margin: 0;
+}
+ul,ol {
+    padding: 0px;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.raleway {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* common css ends here */
+
+/* header starts here */
+#header {
+    background: url("../images/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 51.5px 0px 152px 0px;
+}
+.header-top {
+    display: flex;
+    justify-content:space-between;
+}
+.logo h2 {
+	font-size: 34px;
+	color: #4E47FF;
+	line-height: 150%;
+}
+/* header ends here */
