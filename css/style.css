@@ -168,3 +168,73 @@ a {
 	text-transform: capitalize;
 }
 /* user area ends here */
+
+/* design area starts here */
+#design {
+    background-color: #F5F8FF;
+    padding-bottom: 137px;
+}
+.design-head h2 {
+	width: 1140px;
+	text-align: center;
+	margin: 0px;
+	padding-bottom: 50px;
+}
+.design-content h5 {
+	width: 224px;
+	font-family: "Raleway", sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+	padding: 24px 0px 8px 0px;
+    margin: 0px;
+}
+.design-content p {
+	margin: 0px;
+	width: 320px;
+	color: #1E1E1E;
+	font-weight: 400;
+	font-size: 16px;
+	font-family: "Raleway", sans-serif;
+	padding-bottom: 20px;
+}
+.design-bottom {
+    display: flex;
+}
+.design-bottom img {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+.design-bottom-text h6 {
+    font-family: "Raleway", sans-serif; 
+    font-weight: 600px;
+    font-size: 16px;
+    margin: 0px;
+    width: 267px;
+    color: #1E1E1E;
+    
+}
+.design-bottom-text {
+    padding-left: 12px;
+}
+.design-bottom-text .date {
+    font-family: "Raleway", sans-serif; 
+    font-weight: 600px;
+    font-size: 16px;
+    color: #B3B3B3;
+}
+.design-items {
+    display: flex;
+}
+.design-item {
+	border: 1px solid #f6f1f1;
+	width: 32%;
+	background: #FFFFFF;
+	border-radius: 5px;
+	padding: 24px;
+}
+.middle-item {
+    margin: 0px 2%;
+
+}
+/* design area ends here */
