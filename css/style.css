@@ -355,5 +355,27 @@ span {
 	padding-top: 50px;
 	color: #4E47FF;
 }
+.footer-content p {
+	width: 530px;
+	color: #8987A1;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.footer-menu ul {
+	width: 530px;
+	display: flex;
+	margin: 0 auto;
+	padding-bottom: 100px;
+}
+.footer-menu ul li {
+	margin-right: 50px;
+}
+.footer-menu ul li a {
+	justify-content: space-between;
+	margin: 0 auto;
+	text-transform: uppercase;
+	color: #8987A1;
+	
+}
 
 /* footer area ends here */
