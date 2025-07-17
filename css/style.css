@@ -340,7 +340,20 @@ span {
 
 /* footer area starts here */
 #footer {
+
 	padding: 104px 0px;
 	background: #FFFFFF;
 }
+.footer-content h2 {
+	font-family: "Inter", sans-serif;
+	width: 291px;
+	font-size: 100px;
+	font-weight: 700;
+	color: #000000;
+	text-transform: uppercase;
+	margin: 0 auto;
+	padding-top: 50px;
+	color: #4E47FF;
+}
+
 /* footer area ends here */
