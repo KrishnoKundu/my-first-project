@@ -188,7 +188,7 @@ a {
 	padding: 24px 0px 8px 0px;
     margin: 0px;
 }
-.design-content p {
+.design-content .design-p p {
 	margin: 0px;
 	width: 320px;
 	color: #1E1E1E;
@@ -238,3 +238,40 @@ a {
 
 }
 /* design area ends here */
+
+/* focus area starts here */
+#focus {
+    background: #F5F8FF;
+    padding: 70px 0px 163px 0px;
+}
+.focus-content h2 {
+	width: 465px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	padding-top: 71px;
+}
+.focus-content p {
+	width: 436px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+.focus-content button {
+	margin: 0 auto;
+	display: block;
+	width: 225px;
+	border-radius: 5px;
+    margin-bottom: 20px;
+}
+.focus-content img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: block;
+    margin: 0 auto;
+}
+.focus-text {
+	background: #FFFFFF;
+	padding-bottom: 71px;
+}
+/* focus area ends here */
